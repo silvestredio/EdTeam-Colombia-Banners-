@@ -2,7 +2,9 @@
 
 ![EdTeam 01 PHP que hacer](https://user-images.githubusercontent.com/93165498/142732773-94a8b00b-22e4-4fe9-a4fa-b02a154e8c6b.jpg)
 
-![EdTeam 02 Lenguajes segun su Compilacion](https://user-images.githubusercontent.com/93165498/142732780-b20a5247-0ef2-41dd-9d7a-88c84066486b.jpg)
+![EdTeam 02 Lenguajes segun su Compilacion](https://user-images.githubusercontent.com/93165498/142732780-b20a5247-0ef2-41dd-9d7a-88c84066486b.jpg) 
+
+![EdTeam 02 Tipos de Lenguagem](https://user-images.githubusercontent.com/93165498/142732861-ea6f9f2b-3827-4f63-8d35-b101bb77fcc5.jpg)
 
 ![EdTeam 03 Visual Studio Code Extensiones](https://user-images.githubusercontent.com/93165498/142732786-6abcde07-dccc-4e43-b772-bb884ffaa4c2.jpg)
 
