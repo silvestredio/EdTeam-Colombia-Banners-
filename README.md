@@ -6,9 +6,9 @@
 
 ![EdTeam 02 Tipos de Lenguagem](https://user-images.githubusercontent.com/93165498/142732861-ea6f9f2b-3827-4f63-8d35-b101bb77fcc5.jpg)
 
-![EdTeam 03 Visual Studio Code Extensiones](https://user-images.githubusercontent.com/93165498/142732786-6abcde07-dccc-4e43-b772-bb884ffaa4c2.jpg)
-
 ![EdTeam 04 Visual Studio Code Extensiones](https://user-images.githubusercontent.com/93165498/142732790-3d41d731-0b45-4b84-af76-c7713d26b0df.jpg)
+
+![EdTeam 03 Visual Studio Code Extensiones](https://user-images.githubusercontent.com/93165498/142732786-6abcde07-dccc-4e43-b772-bb884ffaa4c2.jpg)
 
 ![EdTeam 05 Atajos de Teclado en Windows](https://user-images.githubusercontent.com/93165498/142732793-eea9ae38-8560-4343-ace5-f68a69dd2a2a.jpg)
 
