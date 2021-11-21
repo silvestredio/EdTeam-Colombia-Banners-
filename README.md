@@ -35,3 +35,39 @@
 ![EdTeam 15 Python Campos de Aplicacion](https://user-images.githubusercontent.com/93165498/142765701-1a89ae7e-83fd-4e6c-be3a-ce7a2bb96974.jpg)
 
 ![EdTeam 16 Docker que es](https://user-images.githubusercontent.com/93165498/142765704-f3ca0a22-6ad3-4127-9a48-c55316f558d2.jpg)
+
+![EdTeam 17 GIT saes que es](https://user-images.githubusercontent.com/93165498/142765816-0c81b60e-2b7d-40c2-964f-ad6c2fe47d04.jpg)
+
+![EdTeam 18 GIT trabajar en equipo](https://user-images.githubusercontent.com/93165498/142765822-272951a5-c24c-4bbf-bc5a-919f1b317c04.jpg)
+
+![EdTeam 19 GIT mensage Ideal](https://user-images.githubusercontent.com/93165498/142765828-af5e35e4-a8b9-480f-b88f-6247dedea9ce.jpg)
+
+![EdTeam 20 SQL que es](https://user-images.githubusercontent.com/93165498/142765834-5c53da6c-c165-48c0-961d-4a1a7440d347.jpg)
+
+![EdTeam 22  Diseno Principios](https://user-images.githubusercontent.com/93165498/142765843-c0083f12-4bfa-4d8f-ba9c-1c6af8ed2c0c.jpg)
+
+![EdTeam 23 Adobe Xd](https://user-images.githubusercontent.com/93165498/142765851-71fdc2bb-1188-440d-9c5f-58caff594b4c.jpg)
+
+![EdTeam 24 API APP sabes que es](https://user-images.githubusercontent.com/93165498/142765856-42673c22-992e-4231-a77f-eb0679d3af00.jpg)
+
+![EdTeam 25 Cache que es](https://user-images.githubusercontent.com/93165498/142765864-720864c2-43fc-412c-ab5f-17c4bbc5b8db.jpg)
+
+![EdTeam 27 Developer Levels](https://user-images.githubusercontent.com/93165498/142765868-d1032ca8-ddc9-4847-bec1-89a7c0ea46cd.jpg)
+
+![EdTeam 28 Equipos Evolucion Desarrollo](https://user-images.githubusercontent.com/93165498/142765874-b7c8bfd2-cf41-493d-a16c-b0a2ea242588.jpg)
+
+![EdTeam 29 Figma Adobe Sketch](https://user-images.githubusercontent.com/93165498/142765880-0baf2787-150f-44d6-b59b-6b91c8eeb0ec.jpg)
+
+![EdTeam 30 Firebase que es](https://user-images.githubusercontent.com/93165498/142765885-ab7d8470-c6f0-45ca-98af-68dc2e0597f1.jpg)
+
+![EdTeam 31 Frontend Ninja](https://user-images.githubusercontent.com/93165498/142765889-9a492dfe-b001-4599-bf45-5d4d5f6e5eb1.jpg)
+
+![EdTeam 32 Frontend y Disenador Web](https://user-images.githubusercontent.com/93165498/142765897-5b210913-bb5a-48f3-a0ea-c85a027c7178.jpg)
+
+![EdTeam 33 MERN que es](https://user-images.githubusercontent.com/93165498/142765901-6681af09-af97-4f46-9f94-5310edc2c570.jpg)
+
+![EdTeam 34 Notion](https://user-images.githubusercontent.com/93165498/142765903-0446fe1a-8216-4cae-a75f-bfc5fcf78956.jpg)
+
+![EdTeam 35 ORM que es](https://user-images.githubusercontent.com/93165498/142765907-202cbfb0-2a18-40bd-916c-6f430fbb9956.jpg)
+
+![EdTeam 36 Programadores Autodidactas](https://user-images.githubusercontent.com/93165498/142765909-a6be32e2-2807-41ed-8746-08f1553ddb80.jpg)
