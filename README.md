@@ -70,4 +70,28 @@
 
 ![EdTeam 35 ORM que es](https://user-images.githubusercontent.com/93165498/142765907-202cbfb0-2a18-40bd-916c-6f430fbb9956.jpg)
 
-![EdTeam 36 Programadores Autodidactas](https://user-images.githubusercontent.com/93165498/142765909-a6be32e2-2807-41ed-8746-08f1553ddb80.jpg)
+![EdTeam 36 Programadores Autodidactas](https://user-images.githubusercontent.com/93165498/142765909-a6be32e2-2807-41ed-8746-08f1553ddb80.jpg) 
+
+![EdTeam 37 Roles BackEnd conoces](https://user-images.githubusercontent.com/93165498/142766010-cbcbf338-32f4-485e-a919-923ff8825384.jpg)
+
+![EdTeam 38 Scrum desde cero](https://user-images.githubusercontent.com/93165498/142766017-0521de4c-296c-4a05-bf18-0cb132e57365.jpg)
+
+![EdTeam 39 SPA Frameworks Libreria](https://user-images.githubusercontent.com/93165498/142766023-b683339e-c80f-48b7-98f8-4bb7d7092b8c.jpg)
+
+![EdTeam 40 SPA que es](https://user-images.githubusercontent.com/93165498/142766025-022df7d8-563e-4611-a9e3-23a6b225dd01.jpg)
+
+![EdTeam 41 SQL Pronuncia](https://user-images.githubusercontent.com/93165498/142766029-1070ca41-464e-49a8-8fc6-0c87f0707ab6.jpg)
+
+![EdTeam 42 SQL Sintaxis Basica](https://user-images.githubusercontent.com/93165498/142766035-30e07d67-f0c2-4832-83a0-b6c78e26e264.jpg)
+
+![EdTeam 43 SSR Server Side Rendering](https://user-images.githubusercontent.com/93165498/142766038-37131ad3-fffb-4d22-bbe4-bde3afea4420.jpg)
+
+![EdTeam 44 Testing](https://user-images.githubusercontent.com/93165498/142766046-fcf9c046-29cc-4977-8d8b-a8c884d52c4f.jpg)
+
+![EdTeam 45 VPN que es](https://user-images.githubusercontent.com/93165498/142766048-d46ec104-7348-4103-946c-8be80b1e8327.jpg)
+
+![EdTeam 46 WEB Sitio Page APP](https://user-images.githubusercontent.com/93165498/142766053-964c4fa7-336a-44a9-8601-3d9b074c3398.jpg)
+
+![EdTeam 47 WEB Sitio Recursos](https://user-images.githubusercontent.com/93165498/142766061-91f06687-4145-4a12-af3e-3ee4862b1fdc.jpg)
+
+![EdTeam 48 Web vs Movil Mobile DevS](https://user-images.githubusercontent.com/93165498/142766068-a7c0e604-6d5b-4c2c-b536-be09e723d419.jpg)
