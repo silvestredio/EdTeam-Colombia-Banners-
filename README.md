@@ -94,4 +94,7 @@
 
 ![EdTeam 47 WEB Sitio Recursos](https://user-images.githubusercontent.com/93165498/142766061-91f06687-4145-4a12-af3e-3ee4862b1fdc.jpg)
 
-![EdTeam 48 Web vs Movil Mobile DevS](https://user-images.githubusercontent.com/93165498/142766068-a7c0e604-6d5b-4c2c-b536-be09e723d419.jpg)
+![EdTeam 48 Web vs Movil Mobile DevS](https://user-images.githubusercontent.com/93165498/142766068-a7c0e604-6d5b-4c2c-b536-be09e723d419.jpg) 
+
+![EdTeam 49 BackEnd FrontEnd](https://user-images.githubusercontent.com/93165498/142886837-a5d934b6-2b42-4baf-be7d-37e94cefe520.jpg)
+
