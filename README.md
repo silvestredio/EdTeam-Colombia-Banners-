@@ -108,3 +108,5 @@
 
 ![EdTeam 54 Computadoras](https://user-images.githubusercontent.com/93165498/143291350-49a53402-6985-4525-9b54-ad7cf86261aa.jpg)
 
+![EdTeam 55 Computadoras](https://user-images.githubusercontent.com/93165498/143291370-25c1dc21-3ee8-4fcc-b820-3b3469de3d07.jpg)
+
