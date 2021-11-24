@@ -102,3 +102,7 @@
 
 ![EdTeam 51 Lenguages de Programacion](https://user-images.githubusercontent.com/93165498/143291288-51309bb4-b793-423b-98f6-d4f315258b18.jpg)
 
+![EdTeam 52 Computadoras](https://user-images.githubusercontent.com/93165498/143291299-23aa0953-0062-44ca-93fb-fcfcad4f009a.jpg)
+
+
+ 
