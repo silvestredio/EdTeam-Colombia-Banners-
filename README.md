@@ -98,3 +98,7 @@
 
 ![EdTeam 49 BackEnd FrontEnd](https://user-images.githubusercontent.com/93165498/142886837-a5d934b6-2b42-4baf-be7d-37e94cefe520.jpg)
 
+![EdTeam 50 Apple cede a las preciones](https://user-images.githubusercontent.com/93165498/143291272-d25a69a4-dc7f-4a7b-9390-b39170802ac4.jpg)
+
+
+ 
