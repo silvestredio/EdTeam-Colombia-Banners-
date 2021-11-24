@@ -100,5 +100,5 @@
 
 ![EdTeam 50 Apple cede a las preciones](https://user-images.githubusercontent.com/93165498/143291272-d25a69a4-dc7f-4a7b-9390-b39170802ac4.jpg)
 
+![EdTeam 51 Lenguages de Programacion](https://user-images.githubusercontent.com/93165498/143291288-51309bb4-b793-423b-98f6-d4f315258b18.jpg)
 
- 
