@@ -118,4 +118,5 @@
 
 ![EdTeam 59 20211126](https://user-images.githubusercontent.com/93165498/143783208-c16f22b6-6866-4a9d-bab6-5769d8397199.jpg)
 
+![EdTeam 60 20211126](https://user-images.githubusercontent.com/93165498/143783213-1f7bceae-801c-48c7-9156-87e4383ae42e.jpg)
 
