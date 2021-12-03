@@ -132,3 +132,5 @@
 
 ![EdTeam 66 20211129](https://user-images.githubusercontent.com/93165498/144621440-a432a748-ba41-40c0-b704-37bcc3a67dd9.jpg)
 
+![EdTeam 67 20211202](https://user-images.githubusercontent.com/93165498/144621464-b12fdaa3-6e27-467e-adc7-38074537391e.jpg)
+
